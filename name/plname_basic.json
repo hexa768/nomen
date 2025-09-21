@@ -1,0 +1,16 @@
+{
+  "basic": {
+    "place_roots": [
+      "beth", "bet", "qar", "qor", "nahra", "aram", "ram", "mar", "mor",
+      "esh", "ash", "tir", "zaph", "saf", "dumah", "hadar",
+      "khet", "lavan", "pol", "ehea", "theos", "kris", "kratos", "eora",
+      "ne", "nesos", "ion", "eion", "aster", "astra",
+      "heli", "helio", "okean", "okea", "chora", "demi", "demos",
+      "orno", "van", "vank", "ara", "ararat", "sev", "tzov", "dzov",
+      "kert", "kertan", "akan", "ani", "aasis", "nor", "gavar", "shir",
+      "shirak", "lori", "zag", "zagro", "baran", "roj", "rojan",
+      "ava", "avas", "newar", "nivar", "dara", "darik", "khur", "bawer",
+      "shivan", "gund", "guda", "sira", "chia"
+    ]
+  }
+}

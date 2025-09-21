@@ -1,0 +1,12 @@
+{
+  "normal": {
+    "place_roots": [
+      "beth", "el", "zion", "salem", "galil", "Jeru", "cana", "naz", "dam", "shilo", "ephr",
+      "gilead", "moria", "sheba", "eden", "tabor", "carmel", "levi", "magda", "tiber", "olivet",
+      "sion", "petra", "antio", "corin", "ephes", "myra", "pergam", "thessa", "akris", "argos", "chora", 
+      "amphi", "doros", "elys", "ion", "kos", "lacon", "parga", "zakyn", "vale", "dale", "clair",
+      "maris", "luna", "sol", "terra", "nova", "stella", "astra", "serra", "aurora", "riva", "cast", 
+      "vita", "haven"
+    ]
+  }
+}
