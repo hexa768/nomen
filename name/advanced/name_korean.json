@@ -1,0 +1,20 @@
+{
+  "korean": {
+    "male": [
+    "Garam", "Gaon", "GangMun", "GangBin", "GeonMu", "GeonU", "GeonJung", "GyeongMin", "GyeongBok", 
+    "GyeongSe", "GyeongU", "GyeongHeum", "Gyerim", "GwanU", "GwangRyeol", "GwangBeom", "GwangCheol", "GwangHo", 
+    "GyoSeong", "GyuSik", "GiMun", "GiBaek", "GiSeop", "GiChang", "GiHun", "DaeSeong", "DaeHo", "DeokMin", "DeokSu", 
+    "DeokHun", "DoYun", "DoHyeon", "MyeongDo", "MyeongSeon", "MyeongCheol", "MunGyeong", "MunSik", "MunIk", "BaekHo", 
+    "BeomSeok", "BeomJun", "ByeongDo", "ByeongIk", "ByeongHun", "SaGong", "SangDo", "SangMin", "SangSeo", "SangHeon", 
+    "SeoRin", "SeoYun", "SeonDo", "SeonU", "SeongMun", "SeongHyeon", "SeChan", "YeongRak"
+    ],
+    "female": [
+ 	"GaRyeon", "GaHui", "GangRyeong", "GangOk", "GyeongRyeon", "GyeongSuk", "GyeongAe", "GyeongHui", "GyeHyang", 
+ 	"GoUn", "GokRan", "GwangAe", "GyoYeon", "GyuSuk", "GyuWon", "GiRyeo", "GiRyeong", "GiHwa", "NanHyang", "NanHui", 
+ 	"DaeOk", "DaeHwa", "DeokHui", "DoRyeon", "DoYeong", "MyeongOk", "MyeongHui", "MyeongHye", "MiRyeong", "MiSuk", "MiYeon", 
+ 	"MinHyang", "MinHye", "BaekRyeon", "BaekOk", "ByeokHyang", "BoGyeong", "BoRyeon", "BoMi", "BoMok", "BoYun", "SeonMi", 
+ 	"SeonOk", "SeonHui", "SeonHyang", "SeongOk", "SeongHui", "SoJeong", "SoHyang", "SukGyeong", "SukHyang", "YeongAe", "YeongRan", 
+ 	"YeongHwa", "OkRyeon", "OkHui", "HwaRyeon"
+    ]
+  }
+}
